@@ -19,7 +19,7 @@ date: 2017-11-16 14:24 -0600
 <br/>
 # What is this about?
 
-[Matz](https://twitter.com/yukihiro_matz) says "Ruby Is Nice So We Are Nice." So let's be nice to our host city, the beautiful city of New Orleans! I talked to the lovely people at the [Greater New Orleans Foundation](https://www.gnof.org) and they would really appreciate our support.
+[Matz](https://twitter.com/yukihiro_matz) says "Ruby Is Nice So We Are Nice." So let's be nice to our host city, the beautiful city of New Orleans! I talked to the lovely people at the [Greater New Orleans Foundation](https://www.gnof.org), a [Guidestar Gold rated](https://www.guidestar.org/profile/72-0408921) charity, and they would really appreciate our support.
 
 There are two specific funds the recommended:
 
